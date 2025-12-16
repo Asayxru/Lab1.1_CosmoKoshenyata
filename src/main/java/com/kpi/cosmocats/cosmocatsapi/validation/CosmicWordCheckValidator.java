@@ -17,3 +17,7 @@ public class CosmicWordCheckValidator
         return WORDS.stream().anyMatch(value.toLowerCase()::contains);
     }
 }
+
+//  |\__/,|   (`\
+//_.|o o  |_   ) )
+//-(((---(((--------
